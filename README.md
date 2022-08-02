@@ -11,20 +11,20 @@ _Boostrap_
 
 
 
-_ Links de Frameworks Utilizados_
-[Bootstrap](https://github.com/twbs/bootstrap) _Framework Web Gratuito_
-[Flask](https://flask.palletsprojects.com/en/2.1.x/installation/) _Framework minimalista escrito en python_
-[Python](https://www.python.org/) _Lenguaje de programacion de alto nivel_
+###Links de Frameworks Utilizados
+[Bootstrap](https://github.com/twbs/bootstrap) - Framework Web Gratuito
+[Flask](https://flask.palletsprojects.com/en/2.1.x/installation/) - Framework minimalista escrito en python
+[Python](https://www.python.org/) - Lenguaje de programacion de alto nivel
 
 ### Como instalar y usos:
 
-'''
+```
 python index.py
-'''
+```
 _esto abrira por defecto un servidor local en el puerto 5000, ahora debe dirigirse a: _
 
-'''
+```
 localhost:5000
-'''
+```
 
 _si queremos usar la aplicacion para subirla a internet podemos hacerlo ya que se encuentra en un entorno virtualizado_
