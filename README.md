@@ -21,7 +21,7 @@ _Boostrap_
 ```
 python index.py
 ```
-_esto abrira por defecto un servidor local en el puerto 5000, ahora debe dirigirse a: _
+_esto abrira por defecto un servidor local en el puerto 5000, ahora debe dirigirse a:_
 
 ```
 localhost:5000
