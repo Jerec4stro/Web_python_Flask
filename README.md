@@ -30,3 +30,9 @@ localhost:5000
 _si queremos usar la aplicacion para subirla a internet podemos hacerlo ya que se encuentra en un entorno virtualizado_
 
 _el entorno virtualizado se encuentra en la carpeta con el nombre de **venv**_
+
+### Vista Previa de la App
+
+[![home.png](https://i.postimg.cc/m2hQVY6x/home.png)](https://postimg.cc/RN56ZHBG)
+
+[![about.png](https://i.postimg.cc/nrXCKkV0/about.png)](https://postimg.cc/sGRjs5hh)
