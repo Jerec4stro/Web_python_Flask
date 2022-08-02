@@ -11,12 +11,12 @@ _Boostrap_
 
 
 
-###Links de Frameworks Utilizados
-[Bootstrap](https://github.com/twbs/bootstrap) - Framework Web Gratuito
-[Flask](https://flask.palletsprojects.com/en/2.1.x/installation/) - Framework minimalista escrito en python
-[Python](https://www.python.org/) - Lenguaje de programacion de alto nivel
+## Links de Frameworks Utilizados
+* [Bootstrap](https://github.com/twbs/bootstrap) - Framework Web Gratuito
+* [Flask](https://flask.palletsprojects.com/en/2.1.x/installation/) - Framework minimalista escrito en python
+* [Python](https://www.python.org/) - Lenguaje de programacion de alto nivel
 
-### Como instalar y usos:
+# Como instalar y usos:
 
 ```
 python index.py
