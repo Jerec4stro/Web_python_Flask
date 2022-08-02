@@ -29,4 +29,4 @@ localhost:5000
 
 _si queremos usar la aplicacion para subirla a internet podemos hacerlo ya que se encuentra en un entorno virtualizado_
 
-_el entorno virtualizado se encuentra en la carpeta con el nombre de **venv**
+_el entorno virtualizado se encuentra en la carpeta con el nombre de **venv**_
